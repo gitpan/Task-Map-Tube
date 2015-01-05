@@ -16,6 +16,7 @@ requires 'Map::Tube' => 0;
 requires 'Map::Tube::Barcelona' => 0;
 requires 'Map::Tube::Berlin' => 0;
 requires 'Map::Tube::Bucharest' => 0;
+requires 'Map::Tube::Budapest' => 0;
 requires 'Map::Tube::Delhi' => 0;
 requires 'Map::Tube::Dnipropetrovsk' => 0;
 requires 'Map::Tube::GraphViz' => 0;
@@ -25,8 +26,9 @@ requires 'Map::Tube::Kiev' => 0;
 requires 'Map::Tube::London' => 0;
 requires 'Map::Tube::Minsk' => 0;
 requires 'Map::Tube::Moscow' => 0;
-requires 'Map::Tube::Novosibirsk' => 0;
 requires 'Map::Tube::NYC' => 0;
+requires 'Map::Tube::Nanjing' => 0;
+requires 'Map::Tube::Novosibirsk' => 0;
 requires 'Map::Tube::Prague' => 0;
 requires 'Map::Tube::SaintPetersburg' => 0;
 requires 'Map::Tube::Samara' => 0;
@@ -49,7 +51,7 @@ test_requires 'Test::NoWarnings' => 0;
 test_requires 'Test::Pod' => 0;
 test_requires 'Test::Pod::Coverage' => 0;
 tests_recursive;
-version '0.01';
+version '0.02';
 
 # Run.
 WriteAll();

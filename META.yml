@@ -30,6 +30,7 @@ requires:
   Map::Tube::Barcelona: 0
   Map::Tube::Berlin: 0
   Map::Tube::Bucharest: 0
+  Map::Tube::Budapest: 0
   Map::Tube::Delhi: 0
   Map::Tube::Dnipropetrovsk: 0
   Map::Tube::GraphViz: 0
@@ -40,6 +41,7 @@ requires:
   Map::Tube::Minsk: 0
   Map::Tube::Moscow: 0
   Map::Tube::NYC: 0
+  Map::Tube::Nanjing: 0
   Map::Tube::Novosibirsk: 0
   Map::Tube::Prague: 0
   Map::Tube::SaintPetersburg: 0
@@ -56,4 +58,4 @@ resources:
   homepage: https://github.com/tupinek/Task-Map-Tube
   license: http://opensource.org/licenses/artistic-license-2.0.php
   repository: git://github.com/tupinek/Task-Map-Tube
-version: '0.01'
+version: '0.02'
