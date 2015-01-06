@@ -1,3 +1,6 @@
+0.03 2015-01-06T07:50:46+01:00
+ - Add version for each module.
+
 0.02 2015-01-05T19:57:40+01:00
  - Add Map::Tube::Budapest.
  - Add Map::Tube::Nanjing.
