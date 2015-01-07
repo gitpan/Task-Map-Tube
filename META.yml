@@ -26,21 +26,21 @@ no_index:
     - inc
     - t
 requires:
-  Map::Tube: 2.57
-  Map::Tube::Barcelona: 0.11
+  Map::Tube: 2.61
+  Map::Tube::Barcelona: 0.12
   Map::Tube::Berlin: 0.05
   Map::Tube::Bucharest: 0.02
   Map::Tube::Budapest: 0.01
-  Map::Tube::Delhi: 0.22
+  Map::Tube::Delhi: 0.24
   Map::Tube::Dnipropetrovsk: 0.02
   Map::Tube::GraphViz: 0.01
   Map::Tube::Kazan: 0.02
   Map::Tube::Kharkiv: 0.03
   Map::Tube::Kiev: 0.02
-  Map::Tube::London: 0.33
+  Map::Tube::London: 0.34
   Map::Tube::Minsk: 0.02
   Map::Tube::Moscow: 0.02
-  Map::Tube::NYC: 0.08
+  Map::Tube::NYC: 0.1
   Map::Tube::Nanjing: 0.01
   Map::Tube::Novosibirsk: 0.01
   Map::Tube::Prague: 0.06
@@ -48,7 +48,7 @@ requires:
   Map::Tube::Samara: 0.01
   Map::Tube::Sofia: 0.04
   Map::Tube::Tbilisi: 0.02
-  Map::Tube::Text::Table: 0.02
+  Map::Tube::Text::Table: 0.03
   Map::Tube::Tokyo: 0.1
   Map::Tube::Warsaw: 0.02
   Map::Tube::Yekaterinburg: 0.01
@@ -58,4 +58,4 @@ resources:
   homepage: https://github.com/tupinek/Task-Map-Tube
   license: http://opensource.org/licenses/artistic-license-2.0.php
   repository: git://github.com/tupinek/Task-Map-Tube
-version: '0.03'
+version: '0.04'
